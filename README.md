@@ -1,7 +1,17 @@
-### Hi there, I'm Henrique  👋
+# Hello World!
 
-I'm a Software Engineer from Brazil 🇧🇷, currently working with [PortalOne, Inc.](https://www.portalone.com). I am very passionate about creating/architecting solutions with code.
 
-When I'm not coding, I am most likely chilling with friends, playing guitar 🎸, or travelling 🚀.
+## About me
 
-- ⚡ Fun fact: Animals are not products ([Be Vegan](https://www.youtube.com/watch?v=LQRAfJyEsko)) 🌱 🤙
+- A Software Engineer from Brazil :brazil:, with a lot of passion for creating/architecting solutions with code.
+- Working at [PortalOne](https://www.portalone.com)
+
+## When not coding
+- Hanging out with friends
+- Playing guitar 🎸
+- Travelling 🚀.
+- Learning new languages - Currently focused on Norwegian :norway:
+
+### True story⚡
+
+Animals are not products ([Be Vegan](https://www.youtube.com/watch?v=LQRAfJyEsko)) 🌱
