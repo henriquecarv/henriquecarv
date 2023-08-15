@@ -3,15 +3,14 @@
 
 ## About me
 
-- A Software Engineer from Brazil :brazil:, with a lot of passion for creating/architecting solutions with code
-- Working at [PortalOne](https://www.portalone.com)
+A Software Developer from Brazil, with a lot of passion for creating/architecting solutions with code, currently working at [PortalOne](https://www.portalone.com)
 
 ## When not coding
 - Hanging out with friends
 - Playing guitar 🎸
 - Travelling 🚀
-- Learning new languages - Currently focused on Norwegian :norway:
+- Trying to make a difference in my community
 
-### True story⚡
+### Facts⚡
 
-Animals are not products ([Be Vegan](https://www.youtube.com/watch?v=LQRAfJyEsko)) 🌱
+[To you, it is just a meal. To them, it is existence itself.](https://www.youtube.com/watch?v=LQRAfJyEsko) 🌱
