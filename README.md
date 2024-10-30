@@ -3,7 +3,7 @@
 
 ## About me
 
-A Software Developer from Brazil, with a lot of passion for creating/architecting solutions with code, currently working at [PortalOne](https://www.portalone.com)
+A Software Developer from Brazil, with a passion for creating solutions with code, currently working at [PortalOne](https://www.portalone.com)
 
 ## When not coding
 - Hanging out with friends
