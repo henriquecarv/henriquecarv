@@ -13,4 +13,4 @@ A Software Developer from Brazil, with a passion for creating solutions with cod
 
 ### Facts⚡
 
-[To you, it is just a meal. To them, it is existence itself.](https://www.youtube.com/watch?v=LQRAfJyEsko) 🌱
+[For you, it is just a meal. For them, it is existence itself.](https://www.youtube.com/watch?v=LQRAfJyEsko) 🌱
